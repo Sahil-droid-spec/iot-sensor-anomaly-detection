@@ -24,11 +24,5 @@ Train an Isolation Forest model on temperature and humidity time-series data to 
 | Pandas & NumPy | Data handling |
 | Matplotlib | Visualization |
 
-## Run
-```bash
-pip install pandas numpy matplotlib scikit-learn
-python anomaly_detection.py
-```
-
 ## Hardware Context
 Data format replicates real ESP32 + DHT11 output. Part of a broader IoT monitoring system built on ESP32.
